@@ -4,7 +4,7 @@ def mean(x):
     """Mean of a list of numbers.
     
     >>> mean([1, 5, 9])
-    5.0
+    3.0
     
     """
     return sum(x)/len(x)
